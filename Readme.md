@@ -1,6 +1,6 @@
 ## 云端超分中转服务器
 
-代码文件在codes目录下
+该项目的超分模型使用的是EfficientSR：https://github.com/zdyshine/RTC2020_EfficientSR
 
 ### 部署流程
 
